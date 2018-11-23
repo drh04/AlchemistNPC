@@ -649,7 +649,7 @@ namespace AlchemistNPC
             AddTranslation(text);
 
             text = CreateTranslation("AstrageldonSlime");
-            text.SetDefault("Astrageldon Slime Treasure Bag");
+            text.SetDefault("Astrum Aureus Treasure Bag");
             text.AddTranslation(GameCulture.Chinese, "大彗星史莱姆宝藏袋");
             AddTranslation(text);
 
